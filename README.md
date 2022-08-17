@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá! Eu sou Maria Eduarda😊
+### Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o 3º semestre no Centro Universitário Facens.
 
-<!--
-**MariaEduardaCox/MariaEduardaCox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias que estou praticando 
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+    <img align = "left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
+<div style="display: inline_block">
+    <img align = "left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+<div style="display: inline_block">
+    <img align = "left" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+<div style="display: inline_block">
+    <img align = "center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-albuquerque-9a7067221/)
