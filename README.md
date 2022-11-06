@@ -1,4 +1,4 @@
-# Olá! Eu sou Maria Eduarda😊
+# Olá! Me chamo Maria Eduarda😊
 ### Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o 3º semestre no Centro Universitário Facens.
 
 ## Tecnologias que estou praticando 
