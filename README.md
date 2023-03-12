@@ -1,7 +1,7 @@
 # Olá! Me chamo Maria Eduarda😊
-### Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o 3º semestre no Centro Universitário Facens.
+### Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o 4º semestre no Centro Universitário Facens.
 
-## Tecnologias que estou praticando 
+## Tecnologias que estou praticando e possuo experiência
 
 <div style="display: inline_block">
     <img align = "left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
