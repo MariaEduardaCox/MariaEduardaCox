@@ -1,20 +1,12 @@
 # Olá! Me chamo Maria Eduarda😊
-### Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o 4º semestre no Centro Universitário Facens.
+### Sou estudante de programação em constante aprendizado, cursando o último perído
+### da faculdade de Análise e Desenvolvimento de Sistemas na Facens.
 
-## Tecnologias que estou praticando e possuo experiência
+## Tecnologias que estou em desenvolvimento
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MariaEduardaCox&layout=compact&bg_color=f4f2f5&border_color=cf7dff&title_color=E94D5F&text_color=cf7dff)
 
-<div style="display: inline_block">
-    <img align = "left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</div>
-<div style="display: inline_block">
-    <img align = "left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-<div style="display: inline_block">
-    <img align = "left" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
-<div style="display: inline_block">
-    <img align = "center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+## A que ganhou meu coração
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
-## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-albuquerque-9a7067221/)
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E9p4D5F)](https://www.linkedin.com/in/maria-eduarda-albuquerque-9a7067221/)
