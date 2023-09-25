@@ -1,5 +1,5 @@
 # Olá! Me chamo Maria Eduarda😊
-### Sou estudante de programação em constante aprendizado, cursando o último perído
+### Sou estudante de programação em constante aprendizado, cursando o último período
 ### da faculdade de Análise e Desenvolvimento de Sistemas na Facens.
 
 ## Tecnologias que estou em desenvolvimento
